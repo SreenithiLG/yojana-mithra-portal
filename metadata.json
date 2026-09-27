@@ -1,0 +1,6 @@
+{
+  "name": "Yojana Mitra - Government Scheme Eligibility Portal",
+  "description": "A citizen-centric government scheme eligibility platform providing structured guidance, multi-language support, and intelligent scheme matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
